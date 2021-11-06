@@ -1,0 +1,5 @@
+[{
+	"op": "add",
+	"path": "/genericScriptContexts/sweatyfeet",
+	"value": "/pat/sweatyfeet.lua"
+}]
