@@ -1,5 +1,5 @@
 [{
 	"op": "add",
-	"path": "/genericScriptContexts/sweatyfeet",
-	"value": "/pat/sweatyfeet.lua"
+	"path": "/genericScriptContexts/pat_sweatyfeet",
+	"value": "/pat/sweatycore.lua"
 }]
